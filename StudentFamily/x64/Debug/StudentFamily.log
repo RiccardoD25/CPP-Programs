@@ -1,0 +1,16 @@
+﻿  StudentFamily.cpp
+D:\CPP\StudentFamily\Undergrad.h(10,9): error C2248: 'student::name': cannot access private member declared in class 'student'
+D:\CPP\StudentFamily\student.h(7,9): message : see declaration of 'student::name'
+D:\CPP\StudentFamily\student.h(4,7): message : see declaration of 'student'
+D:\CPP\StudentFamily\Undergrad.h(11,9): error C2248: 'student::gpa': cannot access private member declared in class 'student'
+D:\CPP\StudentFamily\student.h(8,9): message : see declaration of 'student::gpa'
+D:\CPP\StudentFamily\student.h(4,7): message : see declaration of 'student'
+  Undergrad.cpp
+D:\CPP\StudentFamily\Undergrad.h(10,9): error C2248: 'student::name': cannot access private member declared in class 'student'
+D:\CPP\StudentFamily\student.h(7,9): message : see declaration of 'student::name'
+D:\CPP\StudentFamily\student.h(4,7): message : see declaration of 'student'
+D:\CPP\StudentFamily\Undergrad.h(11,9): error C2248: 'student::gpa': cannot access private member declared in class 'student'
+D:\CPP\StudentFamily\student.h(8,9): message : see declaration of 'student::gpa'
+D:\CPP\StudentFamily\student.h(4,7): message : see declaration of 'student'
+  student.cpp
+  Generating Code...
