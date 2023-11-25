@@ -1,0 +1,2 @@
+C:\Users\ricca\OneDrive\Desktop\sumdigits.cpp\dayOfTheWeek\x64\Debug\dayOfTheWeek.exe
+D:\CPP\dayOfTheWeek\x64\Debug\dayOfTheWeek.exe
