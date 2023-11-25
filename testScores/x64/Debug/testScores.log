@@ -1,0 +1,6 @@
+﻿  testScores.cpp
+D:\CPP\testScores\testScores.cpp(49,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CPP\testScores\testScores.cpp(75,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CPP\testScores\testScores.cpp(101,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CPP\testScores\testScores.cpp(119,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  testScores.vcxproj -> D:\CPP\testScores\x64\Debug\testScores.exe

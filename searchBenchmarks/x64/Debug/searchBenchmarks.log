@@ -1,0 +1,4 @@
+﻿  searchBenchmarks.cpp
+D:\CPP\searchBenchmarks\searchBenchmarks\searchBenchmarks.cpp(121,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4076: invalid incremental status file 'x64\Debug\searchBenchmarks.ilk' (which will be deleted); linking nonincrementally
+  searchBenchmarks.vcxproj -> D:\CPP\searchBenchmarks\searchBenchmarks\x64\Debug\searchBenchmarks.exe
