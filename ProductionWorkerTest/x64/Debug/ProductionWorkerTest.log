@@ -1,0 +1,3 @@
+﻿  ProductionWorkerTest.cpp
+D:\CPP\ProductionWorkerTest\ProductionWorker.h(29,29): warning C4552: '*': result of expression not used
+  ProductionWorkerTest.vcxproj -> D:\CPP\ProductionWorkerTest\x64\Debug\ProductionWorkerTest.exe

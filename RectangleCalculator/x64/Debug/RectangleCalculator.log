@@ -1,0 +1,5 @@
+﻿  Rectangle.cpp
+  RectangleCalculator.cpp
+D:\CPP\RectangleCalculator\RectangleCalculator.cpp(17,28): error C2039: 'getArea': is not a member of 'Rectangle'
+D:\CPP\RectangleCalculator\Rectangle.h(2,7): message : see declaration of 'Rectangle'
+  Generating Code...
